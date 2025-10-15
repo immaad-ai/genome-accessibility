@@ -20,14 +20,6 @@ The core of the model uses the ViennaRNA package to calculate per-base and per-s
 
 ---
 
-### Example Visualization: Integrated Dual-Strand Profile
-One of the key outputs is a detailed profile for any given genomic locus, directly comparing the accessibility of the forward and reverse complement strands.
-
-*(**Pro-Tip:** After you run your notebook, take a screenshot of one of your "Integrated Dual-Strand Profile" plots from Cell 6, save it as `profile_example.png` in your project folder, and this will display automatically.)*
-![Example Profile](profile_example.png)
-
----
-
 ### How to Run This Analysis
 
 #### Prerequisites
