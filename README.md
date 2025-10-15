@@ -36,7 +36,7 @@ cd genome-accessibility
 This project's dependencies are specified in the `environment.yml` file. Use it to create a new, isolated environment. This step ensures that all the correct library versions are installed and is critical for reproducibility.
 
 ```bash
-# Create the environment named 'genome-access'
+# Create the environment named 'ss_tm_env'
 conda env create -f environment.yml
 
 # Activate the new environment
