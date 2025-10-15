@@ -1,0 +1,21 @@
+# Python cache & virtual environments
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS & Windows system files
+.DS_Store
+Thumbs.db
+
+# Output files - we don't store results in the repo,
+# the code should generate them.
+*.csv
+*.png
+*.jpg
+
+# Any other large data folders you might add later
+human_genome_hg38/
