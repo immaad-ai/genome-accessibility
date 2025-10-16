@@ -16,6 +16,7 @@ Thumbs.db
 *.csv
 *.png
 *.jpg
+!probe_conditions.csv
 
 # Any other large data folders you might add later
 human_genome_hg38/
