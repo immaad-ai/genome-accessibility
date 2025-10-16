@@ -40,4 +40,4 @@ This project's dependencies are specified in the `environment.yml` file. Use it 
 conda env create -f environment.yml
 
 # Activate the new environment
-conda activate genome-access
+conda activate ss_tm_env
